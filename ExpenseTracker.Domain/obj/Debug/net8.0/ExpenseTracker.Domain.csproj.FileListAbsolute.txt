@@ -1,0 +1,12 @@
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/bin/Debug/net8.0/ExpenseTracker.Domain.deps.json
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/bin/Debug/net8.0/ExpenseTracker.Domain.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/bin/Debug/net8.0/ExpenseTracker.Domain.pdb
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.AssemblyInfoInputs.cache
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.AssemblyInfo.cs
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.csproj.CoreCompileInputs.cache
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.sourcelink.json
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/refint/ExpenseTracker.Domain.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ExpenseTracker.Domain.pdb
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Domain/obj/Debug/net8.0/ref/ExpenseTracker.Domain.dll

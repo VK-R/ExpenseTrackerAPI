@@ -1,0 +1,12 @@
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/bin/Debug/net8.0/ExpenseTracker.Application.deps.json
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/bin/Debug/net8.0/ExpenseTracker.Application.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/bin/Debug/net8.0/ExpenseTracker.Application.pdb
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.AssemblyInfoInputs.cache
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.AssemblyInfo.cs
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.csproj.CoreCompileInputs.cache
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.sourcelink.json
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/refint/ExpenseTracker.Application.dll
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ExpenseTracker.Application.pdb
+/Users/vinothkumarranganathan/Library/Mobile Documents/com~apple~CloudDocs/GitHubProjects/ExpenseTrackerAPI/ExpenseTracker.Application/obj/Debug/net8.0/ref/ExpenseTracker.Application.dll
